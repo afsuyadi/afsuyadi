@@ -1,5 +1,6 @@
 Hi there 👋 I'm Suyadi.
 
+I'm a builder whose passion lies on creating products that brings positive impact for users, and my experiences revolve around building product from zero to one.  
 I'm currently working as a full-stack engineer on [Weeswares Pte Ltd](www.weeswares.com), a Singaporean SaaS company that builds [CaritaHub](www.caritahub.com), a healthcare tech that is being widely used for Seniors' support across Singapore, Vietnam, and Indonesia.
 
 In my spare time, I am actively contributing towards world-class repositories, which personally gives me a sense of fulfillment when helping others.
