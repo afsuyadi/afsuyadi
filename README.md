@@ -4,7 +4,7 @@ I'm currently working as a full-stack engineer on [Weeswares Pte Ltd](www.weeswa
 
 In my spare time, I am actively contributing towards world-class repositories, which personally gives me a sense of fulfillment when helping others.
 
-✨ [Live list on GitHub](https://github.com/search?q=author%3Aafsuyadi+is%3Apr+is%3Amerged&type=pullrequests)
+✨ [Live PR lists on GitHub](https://github.com/search?q=author%3Aafsuyadi+is%3Apr+is%3Amerged&type=pullrequests)
 
 ## Nakama
 
