@@ -8,7 +8,7 @@ In my spare time, I am actively contributing towards world-class repositories, w
 
 Got idea of building impactful product? Let's discuss and connect here: [My Profile](www.linkedin.com/in/afsuyadi)
 
-### 🤝 Open source I've contributed to
+## 🤝 Open source I've contributed to
 
 | <a href="https://github.com/ahmadrosid/nakama/pulls?q=is%3Apr+is%3Amerged+author%3Aafsuyadi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadrosid/nakama/main/assets/nakama-mark-white.svg"><img src="https://raw.githubusercontent.com/ahmadrosid/nakama/main/assets/nakama-mark.svg" width="56" alt="Nakama"></picture><br><b>Nakama</b><br><img src="https://img.shields.io/github/issues-search?query=author%3Aafsuyadi%20is%3Apr%20is%3Amerged%20repo%3Aahmadrosid%2Fnakama&label=merged&color=7be35a&style=for-the-badge" alt="Nakama merged PRs"></a> | <a href="https://github.com/Flagsmith/flagsmith/pulls?q=is%3Apr+is%3Amerged+author%3Aafsuyadi"><img src="https://github.com/Flagsmith.png" width="56" alt="Flagsmith"><br><b>Flagsmith</b><br><img src="https://img.shields.io/github/issues-search?query=author%3Aafsuyadi%20is%3Apr%20is%3Amerged%20repo%3AFlagsmith%2Fflagsmith&label=merged&color=7be35a&style=for-the-badge" alt="Flagsmith merged PRs"></a> | <a href="https://github.com/PostHog/posthog/pulls?q=is%3Apr+is%3Amerged+author%3Aafsuyadi"><img src="https://github.com/PostHog.png" width="56" alt="PostHog"><br><b>PostHog</b><br><img src="https://img.shields.io/github/issues-search?query=author%3Aafsuyadi%20is%3Apr%20is%3Amerged%20repo%3APostHog%2Fposthog&label=merged&color=7be35a&style=for-the-badge" alt="PostHog merged PRs"></a> | <a href="https://github.com/unslothai/unsloth/pulls?q=is%3Apr+is%3Amerged+author%3Aafsuyadi"><img src="https://github.com/unslothai.png" width="56" alt="Unsloth"><br><b>Unsloth</b><br><img src="https://img.shields.io/github/issues-search?query=author%3Aafsuyadi%20is%3Apr%20is%3Amerged%20repo%3Aunslothai%2Funsloth&label=merged&color=7be35a&style=for-the-badge" alt="Unsloth merged PRs"></a> |
 |:-:|:-:|:-:|:-:|
@@ -18,14 +18,15 @@ Got idea of building impactful product? Let's discuss and connect here: [My Prof
 
 [See all my merged PRs →](https://github.com/search?q=author%3Aafsuyadi+is%3Apr+is%3Amerged+-user%3Aafsuyadi&type=pullrequests)
 
-## Nakama
+## 📜 Merged PRs Details
+### Nakama
 
 1. [PR #2035: feat(web): recall previous prompts with ArrowUp in the chat composer](https://github.com/ahmadrosid/nakama/pull/2035)
 2. [PR #1985: fix(web): prevent document attachment from disappearing from chat history after a turn completes](https://github.com/ahmadrosid/nakama/pull/1985)
 3. [PR #1980: feat(web): combine attachment Image/Document into one picker with Ctrl+U](https://github.com/ahmadrosid/nakama/pull/1980)
 4. [PR #1966: fix(providers): surface provider HTTP failures instead of a generic 500](https://github.com/ahmadrosid/nakama/pull/1966)
 
-## Flagsmith
+### Flagsmith
 
 1. [PR #7882: fix(project-settings): add spacing between project name input and Update button when hasVariation is False](https://github.com/Flagsmith/flagsmith/pull/7882)
 2. [PR #7844: feat(code-references): prompt users to add required integrations](https://github.com/Flagsmith/flagsmith/pull/7844)
@@ -36,45 +37,45 @@ Got idea of building impactful product? Let's discuss and connect here: [My Prof
 7. [PR #7778: fix(frontend): add guard against null model](https://github.com/Flagsmith/flagsmith/pull/7778)
 8. [PR #7649: fix(frontend): prevent error when inputRef is undefined](https://github.com/Flagsmith/flagsmith/pull/7649)
 
-## PostHog
+### PostHog
 
 [PR #59903: fix(hobby-installer): fix GeoIP install failure and kafka-init compose variable escaping](https://github.com/PostHog/posthog/pull/59903)
 
-## Unsloth
+### Unsloth
 
 [PR #5860: Fix error when context-resizing](https://github.com/unslothai/unsloth/pull/5860)
 
-## Notesnook
+### Notesnook
 
 [PR #10106: Fix error on Android's search query](https://github.com/streetwriters/notesnook/pull/10106)
 
-## Open SaaS
+### Open SaaS
 
 1. [PR #683: fix(account): fix the subscription end date bug](https://github.com/wasp-lang/open-saas/pull/683)
 2. [PR #681: fix(login): fix capitalization in login form](https://github.com/wasp-lang/open-saas/pull/681)
 
-## Scrapling
+### Scrapling
 [PR #493: fix(parser): remove strip_cdata kwarg from lxml HTMLParser to silence DeprecationWarning](https://github.com/D4Vinci/Scrapling/pull/493)
 
-## Tirith (StackGuardian)
+### Tirith (StackGuardian)
 
 [PR #416: test(kubernetes): cover attribute handler's main paths](https://github.com/StackGuardian/tirith/pull/416)
 
-## Greplica
+### Greplica
 
 [PR #171: fix(docs): Fix typos and grammar errors in docs and prompt templates](https://github.com/Autoloops/greplica/pull/171)
 
-## Biopython
+### Biopython
 [PR #5188: Fix code and documentation](https://github.com/biopython/biopython/pull/5188)
 
-## freeCodeCamp
+### freeCodeCamp
 
 [PR #66704: fix: correct typo in documentation and localization files](https://github.com/freeCodeCamp/freeCodeCamp/pull/66704)
 
-## Black
+### Black
 
 [PR #5067: docs: fix double colon in mailto hyperlink](https://github.com/psf/black/pull/5067)
 
-## Hono (website)
+### Hono (website)
 
 [PR #838: docs: fix grammatical errors and improve clarity](https://github.com/honojs/website/pull/838)
