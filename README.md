@@ -1,6 +1,6 @@
 # Hi, I'm Suyadi 👋
 
-**I turn real problems into products people rely on.**
+**I build software your business can rely on.**
 
 I'm a Senior Full-Stack Engineer who enjoys understanding how businesses work, solving problems that matter, and building software people genuinely need.
 
