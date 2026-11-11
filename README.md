@@ -17,7 +17,7 @@ Building software that helps senior-care centres in Singapore manage their daily
 - Delivered a clinical system that reduced patient waiting time by **70%**.
 - Worked across clinical workflows, billing, system integrations, and backend services.
 
-[Explore CaritaHub](https://www.caritahub.com)
+🩺 [Explore CaritaHub](https://www.caritahub.com)
 
 ### Ihsanify — Learning Management System
 **Independent Product Builder**
@@ -29,7 +29,7 @@ Built an end-to-end LMS for a real online school, replacing scattered WhatsApp m
 - Handles scheduling, attendance, progress reports, invoicing, and teacher payroll.
 - Designed the backend, frontend, database, and business workflows.
 
-[Explore the Source Code](https://github.com/ihsanify-app/ihsanify)
+📚 [Explore the Source Code](https://github.com/ihsanify-app/ihsanify)
 
 ## 🛠 Open-Source Contributions
 
